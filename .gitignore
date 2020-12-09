@@ -21,3 +21,13 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# todos
+Todo.md
+
+
+# firebase
+firebase.js
+
+# others
+.eslintcache
